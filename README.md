@@ -11,7 +11,8 @@ DevOps Bootcamp second Project TEAM H
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 ## 주제
-소비자/라이더/사장님(주문 관리)/사장님(매장 관리) 팀 중 한 부서를 선택하여 해당 기능 명세를 API 서버로 구현 프로젝트
+소비자/라이더/사장님(주문 관리)/사장님(매장 관리) 팀 중 한 부서를 선택하여<br/>
+해당 기능 명세를 API 서버로 구현 프로젝트
 
 
 ## 소비자 팀
